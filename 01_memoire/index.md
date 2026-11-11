@@ -48,4 +48,5 @@ Enfin, une étude exploratoire auprès d'un groupe d'utilisateurs pourra être m
 
 ### 5. Bibliographie préliminaire
 
-- World Wide Web Consortium (W3C) (2024). *Web Content Accessibility Guidelines (WCAG) 2.2*. https://www.w3.org/TR/WCAG22/
+- World Wide Web Consortium (W3C) (2024). *Web Content Accessibility Guidelines (WCAG) 2.2*.
+   https://www.w3.org/TR/WCAG22/
